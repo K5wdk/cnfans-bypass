@@ -1,4 +1,4 @@
-# CNFans Riskwarn Remover
+<a href="https://ibb.co/SX538gg"><img src="https://i.ibb.co/mCbcwKK/CNFANS.png" alt="image" border="1"></a>
 
 Easily bypass the CNFans risk warning modal with this lightweight browser extension.
 
@@ -10,7 +10,7 @@ Easily bypass the CNFans risk warning modal with this lightweight browser extens
 
 ## 📦 Installation
 
-1. [Download the latest release](https://github.com/k5wdk/cnfans-bypass/releases/latest/download/release.zip).
+1. [Download the latest release]([https://github.com/K5wdk/cnfans-bypass/releases).
 2. Open `chrome://extensions/` in your Chrome browser.
 3. Enable **Developer Mode** (top right corner).
 4. Click **Load unpacked** and select the extracted `release.zip` folder.
