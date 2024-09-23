@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "CNFans Warn BP",
+  "version": "1.0",
+  "description": "Bypass the CNFans warn alert made by kwdk",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "event/listener.html",
+    "default_icon": {
+      "16": "bin/icon.png",
+      "48": "bin/icon.png",
+      "128": "bin/icon.png"
+    }
+  },
+  "icons": {
+    "16": "bin/icon.png",
+    "48": "bin/icon.png",
+    "128": "bin/icon.png"
+  }
+}
